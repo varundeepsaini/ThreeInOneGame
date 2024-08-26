@@ -4,7 +4,7 @@ Welcome to **Three In One Game**! This app combines three fun games—Tic Tac To
 
 ## What I Learned
 
-While building this project, I learned:
+While building this project, I learned :
 
 - **SwiftUI Basics**: How to use SwiftUI to create user interfaces.
 - **Game Logic**: How to implement different game logics in a single app.
